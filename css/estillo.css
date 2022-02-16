@@ -14,17 +14,14 @@ body{
 #banner{
     margin: 0px;
     position: relative;
-        
-}
-#banner img{
-    margin: 700px 10px 10px 550px;
     
 }
 
 #banner .contenedor{
     background: #fdfcfb;
-    width: 50%;
-    height: 53;
+    width: 55%;
+    height: 100%;
+    opacity: 0.7;
 }
 
 #banner .contenedor{
@@ -32,7 +29,7 @@ body{
     text-align: left;
     top: 100%;
     color: rgb(0, 0, 0);
-    margin: -500px 10px 10px 590px;
+    margin: -455px 10px 10px 50px;
 }
 
 
