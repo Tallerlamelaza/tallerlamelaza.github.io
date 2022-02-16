@@ -37,6 +37,26 @@ body{
     text-align: justify;
 
 }
+.mama{
+    margin: 0px 0px 0px 10px;
+    background: #00aeff;
+    height: 150px;
+    width: 40%;
+}
+
+.subtituloparrafo{
+    font-weight: 100;
+    color: #fdfcfb;
+    margin-bottom: 40px;
+    font-size: 40px;
+    margin: 10px 10px 0px 10px; 
+}
+.contenedor-parrafo{
+   color: #fdfcfb; 
+   margin-bottom: 40px;
+ 
+   margin: 0px 10px 10px 10px;
+}
 
 
 *{
